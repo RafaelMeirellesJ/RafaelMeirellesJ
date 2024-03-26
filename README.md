@@ -1,4 +1,4 @@
-<h1 align="center">👋Olá, me chamoo Rafael Meirelles</h1>
+<h1 align="center">👋Olá, me chamo Rafael</h1>
 <h3 align="center">Sou estudante de Ciência de Dados e Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmeirellesj&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmeirellesj" /> </p>
