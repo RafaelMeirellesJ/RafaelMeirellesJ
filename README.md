@@ -35,14 +35,16 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/>
           </a>
           <a href="https://cdn.jsdelivr.net/" target="_blank" rel="nonreffer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
           </a>
           <a href="https://cdn.jsdelivr.net/" target="_blank" rel="nonreffer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
           </a> 
           <a href="https://cdn.jsdelivr.net/" target="_blank" rel="nonreffer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" color="white"/>
-          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" />
+          </a>
+          <a href="https://cdn.jsdelivr.net/" target="_blank rel="nonreffer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
           
 </p>
 
