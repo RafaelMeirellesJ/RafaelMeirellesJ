@@ -110,5 +110,3 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
 - [`wine-quality-ml`](https://github.com/RafaelMeirellesJ/wine-quality-ml) – Previsão da qualidade de vinhos com ML supervisionado  
 
 ---
-
-> _"Aprender bem o que importa é mais valioso do que tentar saber tudo."_
