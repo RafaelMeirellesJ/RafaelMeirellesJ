@@ -78,9 +78,6 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
     <td align="center">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo.png" width="40"/><br>Transformers
-    </td>
   </tr>
 </table>
 
