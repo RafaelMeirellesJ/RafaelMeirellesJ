@@ -44,7 +44,10 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br>R
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL / SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>SQL / MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
     </td>
   </tr>
 </table>
@@ -101,12 +104,11 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
 
 </div>
 
-
-## 🔍 Alguns projetos
-
-- [`bert-token-classification`](https://github.com/RafaelMeirellesJ/bert-token-classification) – Classificação de entidades nomeadas com BERTimbau  
-- [`eda-acidentes-rodovias`](https://github.com/RafaelMeirellesJ/eda-acidentes-rodovias) – Análise visual de acidentes em rodovias federais  
-- [`churn-prediction-ml`](https://github.com/RafaelMeirellesJ/churn-prediction-ml) – Modelo de predição de evasão de clientes  
-- [`wine-quality-ml`](https://github.com/RafaelMeirellesJ/wine-quality-ml) – Previsão da qualidade de vinhos com ML supervisionado  
-
 ---
+
+### 📐 Conhecimentos técnicos
+
+- Estatística e probabilidade aplicada à ciência de dados
+- Visualização de dados para comunicação de insights
+- Machine learning supervisionado e redes neurais
+- Modelos de linguagem e pré-processamento de texto
