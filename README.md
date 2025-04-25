@@ -111,5 +111,3 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
 - Processamento de linguagem natural (NLP) com BERT e modelos em português
 
 ---
-
-> _"Aprender bem o que importa é mais valioso do que tentar saber tudo."_
