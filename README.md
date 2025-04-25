@@ -34,7 +34,7 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
 
 <div align="center">
 
-### 💻 Linguagens
+### 💻 Linguagens e Bancos de Dados
 <table>
   <tr>
     <td align="center">
@@ -78,9 +78,6 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch
     </td>
-    <td align="center">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face
-    </td>
   </tr>
 </table>
 
@@ -106,9 +103,13 @@ Gosto de aplicar inteligência artificial em problemas reais, especialmente nas 
 
 ---
 
-### 📐 Conhecimentos técnicos
+## 📐 Conhecimentos Técnicos
 
-- Estatística e probabilidade aplicada à ciência de dados
-- Visualização de dados para comunicação de insights
-- Machine learning supervisionado e redes neurais
-- Modelos de linguagem e pré-processamento de texto
+- Estatística e probabilidade aplicadas à ciência de dados
+- Visualização de dados e storytelling com gráficos
+- Machine Learning supervisionado e redes neurais
+- Processamento de linguagem natural (NLP) com BERT e modelos em português
+
+---
+
+> _"Aprender bem o que importa é mais valioso do que tentar saber tudo."_
